@@ -1,0 +1,35 @@
+.gg {
+    padding: 20px;
+    color: white;
+}
+@media only screen and (max-width: 400px) {
+    .xs {
+        background-color: red;
+        
+    }
+}
+@media only screen and (max-width: 576px) {
+    .sm {
+        background-color: green;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .md {
+        background-color: blue;
+    }
+}
+@media only screen and (max-width: 992px) {
+    .lg {
+        background-color: lightblue;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .xl {
+        background-color: lavender;
+    }
+}
+@media only screen and (max-width: 1400px) {
+    .xxl {
+        background-color: coral;
+    }
+}
